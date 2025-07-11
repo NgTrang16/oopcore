@@ -9,5 +9,7 @@ public class Main {
         Student student1 = new StudentDetail();
         studentDetail.showFllName1();
 
+
+
     }
 }
