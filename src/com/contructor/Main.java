@@ -1,4 +1,4 @@
-package com.Contructor;
+package com.contructor;
 
 public class Main {
     // constructor: ham khoi tao, tao obj tu class

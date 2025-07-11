@@ -1,4 +1,4 @@
-package com.Encapsulation;
+package com.encapsulation;
 
 public class School {
     public String address;

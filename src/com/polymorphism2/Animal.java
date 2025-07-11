@@ -1,4 +1,4 @@
-package com.Polymorphism2;
+package com.polymorphism2;
 
 public class Animal {
     public void sound(){

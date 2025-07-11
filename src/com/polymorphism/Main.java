@@ -1,4 +1,4 @@
-package com.Polymorphism;
+package com.polymorphism;
 
 public class Main {
     //override: khoi tao lai

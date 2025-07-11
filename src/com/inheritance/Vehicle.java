@@ -1,4 +1,4 @@
-package com.Inheritance;
+package com.inheritance;
 
 public class Vehicle {
    public int id;

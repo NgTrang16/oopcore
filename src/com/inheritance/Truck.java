@@ -1,4 +1,4 @@
-package com.Inheritance;
+package com.inheritance;
 
 public class Truck extends Vehicle{
     public float weight;

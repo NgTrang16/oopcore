@@ -1,4 +1,4 @@
-package com.Abstraction;
+package com.abstraction;
 
 public abstract class Student {
     public abstract void showFllName();

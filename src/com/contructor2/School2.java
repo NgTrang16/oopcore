@@ -1,4 +1,4 @@
-package com.Contructor2;
+package com.contructor2;
 
 public class School2 {
     private Integer id;

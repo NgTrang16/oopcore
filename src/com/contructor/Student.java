@@ -1,4 +1,4 @@
-package com.Contructor;
+package com.contructor;
 
 public class Student {
     private String nameSchool;

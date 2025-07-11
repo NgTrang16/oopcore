@@ -1,4 +1,4 @@
-package com.Inheritance;
+package com.inheritance;
 
 public class Car extends Vehicle{
     public int numSeat;

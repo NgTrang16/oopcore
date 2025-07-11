@@ -1,4 +1,4 @@
-package com.Abstraction;
+package com.abstraction;
 
 public class StudentDetail extends Student {
 
